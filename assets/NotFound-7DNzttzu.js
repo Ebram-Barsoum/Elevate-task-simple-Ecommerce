@@ -1,0 +1,1 @@
+import{j as t}from"./index-DXFtOz5h.js";function o(){return t.jsx("div",{className:"h-full w-[80%]  mx-auto sm:w-[40%] grid place-content-center",children:t.jsx("img",{src:"notFound.png",alt:"not found image",className:"w-full mt-auto"})})}export{o as default};
